@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d66d4e54-87c8-456b-9dd1-7d9db0b43cea" name="Default Changelist" comment="new c file script">
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/0-add.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/0-add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +21,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x03-python-data_structures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x04-python-more_data_structures" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\alx-higher_level_programming\0x04-python-more_data_structures" />
+      <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\alx-higher_level_programming" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\0x03-python-data_structures" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\0x02-python-import_modules" />
-      <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\0x00-python-hello_world" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0-add">
+  <component name="RunManager" selected="Python.2-args">
     <configuration name="0-add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-variable_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2-args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alx-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x02-python-import_modules/5-variable_load.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x02-python-import_modules/2-args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2-args" />
         <item itemvalue="Python.0-add" />
         <item itemvalue="Python.1-calculation" />
         <item itemvalue="Python.12-switch" />
         <item itemvalue="Python.101-easy_print" />
-        <item itemvalue="Python.5-variable_load" />
       </list>
     </recent_temporary>
   </component>
