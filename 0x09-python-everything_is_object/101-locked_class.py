@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-locked_class.py
-# Brennan D Baraban <375@holbertonschool.com>
+# oliyad kebede
 """Defines a locked class."""
 
 
