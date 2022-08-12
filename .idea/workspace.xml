@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d66d4e54-87c8-456b-9dd1-7d9db0b43cea" name="Default Changelist" comment="new c file script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/alx-higher_level_programming/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/alx-higher_level_programming/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,25 +14,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29zjchQPPkJAiMlcIr5vHM4bZrH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x04-python-more_data_structures" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/HP/ALX/alx-higher_level_programming"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\ALX\alx-higher_level_programming" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\alx-higher_level_programming\0x04-python-more_data_structures" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\alx-higher_level_programming" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\0x03-python-data_structures" />
       <recent name="C:\Users\HP\Desktop\alx-higher_level_programming" />
-      <recent name="C:\Users\HP\Desktop\alx-higher_level_programming\0x02-python-import_modules" />
     </key>
   </component>
   <component name="RunManager" selected="Python.2-args">
@@ -185,7 +189,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;new file&quot;" />
